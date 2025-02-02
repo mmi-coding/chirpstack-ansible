@@ -90,7 +90,7 @@ This playbook has been tested on
 bare-metal, AWS, ...
 
 Don't have a DigitalOcean account yet? Use
-[this](https://m.do.co/c/6cd86e9f1cb8) link and get $10 in credits for free :-)
+[this](https://m.do.co/c/6cd86e9f1cb8) link and get $200 in credits for free :-)
 
 ### Ports
 
